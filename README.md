@@ -1,6 +1,6 @@
 # Civic Archipelago
 ##  Become a civic hero. Build your own pathway to active engagement in your village, town, city, country, and world.
-were gathering info about what types of civic projects people wish they could do and what skills they would want to learn to do them. Eventually the idea is to create a girlscout badge type system where learners design their own challenges to learn skills for active citizenship and design for innovation in their communities.
+We're gathering info about what types of civic projects people wish they could do, and what skills they would want to learn to do them. Eventually the idea is to create a girlscout badge type system where learners design their own challenges to learn skills for active citizenship and design for innovation in their communities.
 
 Active citizenship is a state of mind. Your actions and skills can help your communities. Civic engagement should be different for different people, and we need your help to build an inclusive platform to foster civic engagement.
 
